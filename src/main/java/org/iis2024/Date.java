@@ -84,4 +84,13 @@ public class Date {
       return false;
     }
   }
+
+  public class Date {
+
+    private int fieldAddedByJuanCarlos;
+
+    private final int day;
+    private final int month;
+    private final int year;
+  }
 }
